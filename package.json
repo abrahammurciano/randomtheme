@@ -1,0 +1,29 @@
+{
+	"name": "randomtheme",
+	"displayName": "RandomTheme",
+	"description": "A random theme I made",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "RandomTheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RandomTheme-color-theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"Dark",
+		"Theme",
+		"Smooth",
+		"Faded"
+	],
+	"publisher": "abrahammurciano",
+	"repository": {}
+}
